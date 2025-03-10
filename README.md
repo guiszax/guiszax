@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Olá! Sou o Guilherme.
+
+ Atualmente, estou cursando **Sistemas para Internet**, sempre tive afinidade com a tecnologia e é nessa área que desejo crescer profissionalmente, focando em atuar como desenvolvedor fullstack.
 
 <!--
 **guiszax/guiszax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
